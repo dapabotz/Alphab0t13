@@ -1,7 +1,7 @@
-const infobot = (status, offline, latensii, totalchat, giid, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, ownerNumberrr,runtime, kyun) => {
+const infobot = (status, offline, latensii, totalchat, giid, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, ownerNumberr,runtime, kyun) => {
 return `ℒ⃝👾 *B O T  S T A T I S T I C*
 
-👨‍💻 Owner : @${ownerNumberrr.split('@')[0]}
+👨‍💻 Owner : @${ownerNumberr.split('@')[0]}
 ☪️ Lib  : Baileys
 ☸️ Type  : NodeJs
 ♂️ Mode : ${status}
@@ -9,7 +9,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 👨‍👨‍👧‍👦 Group Chat : ${giid.length}
 👥 Personal Chat : ${totalchat.length - giid.length}
 👨‍👩‍👧‍👧 Total Chat : ${totalchat.length}
-🍃 Speed : ${latensii.toFixed(4)} Second (s)
+🍃 Speed : ${latensii.toFixed(4)} Seconds
 🌾 Runtime : ${kyun(runtime)}
 
 
@@ -26,12 +26,12 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
-⛎ Api : api.panelbotwa.herokuapp.com
-♉ Github : http://github.com//Andriiwalker
+⛎ Api : api.andriibot.herokuapp.com
+♈ YouTube : http://www.facebook.com/andriistreetmoon
+♉ Github : andriiwalker.github.io
 ♊ Instagram : instagram.com/crosslife89
-♋ Snack Video : https://sck.io/u/qfjxwBok
-♌ Facebook : bit.ly/3oMTpeT
-♏ WhatsApp : bit.ly/3lZ8AQj
+♋ Snack Video : snackvideo.com/@AndriiStreetM
+♏ WhatsApp : https://api.whatsapp.com/send?phone=6283822759168&text=Halo%20saya%20sewa%20bot%20gan
 `}
 
 exports.infobot = infobot
