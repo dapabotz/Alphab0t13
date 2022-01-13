@@ -31,7 +31,7 @@ ${numberik}➛Total All Chat : ${totalchat.length}
 ${numberik}➛Group Chat : ${ini_gcchat}
 ${numberik}➛Browser : Chrome
 ${numberik}➛Server : Baileys
-${numberik}➛Version : 3.5.2
+${numberik}➛Version : 3.5.3
 ${numberik}➛Speed : ${latensii.toFixed(4)} Second
 └❏ ${tekss}
 
@@ -61,7 +61,7 @@ ${numberik}➛Speed : ${latensii.toFixed(4)} Second
 ├❒ Group_support
 └❒ Ownerbot
 
-❒ _Creator BotWea © 2K21_ ❒
+❒ _Creator Andrii Street Moonshine © 2K21_ ❒
 `
 }
 const convert = (prefix) => {
@@ -114,7 +114,7 @@ const download = (prefix) => {
 `
 }
 const allmenu = (kyun, os, prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensii)  => {
-	return`❏───「 *WHATSAPP BOT* 」───❏
+	return`❏───「 * A N D R I I - BOT* 」───❏
                                
 ℒ⃝🌅  *THIS DAY*
 ${ucapannya2}
@@ -969,7 +969,7 @@ ${numberik} ${prefix}yuzuki
 ${numberik} ${prefix}akame
 ${numberik} ${prefix}mikosiba
 
-❏───「 *WHATSAPP BOT* 」───❏
+❏───「 *A N D R I I - BOT* 」───❏
 `
 }
 
