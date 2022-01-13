@@ -27,7 +27,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
 ⛎ Api : api.andriibot.herokuapp.com
-♈ Facebook : http://www.facebook.com/andriistreetmoon
+♈ Facebook : fb.me/andriistreetmoon
 ♉ Github : andriiwalker.github.io
 ♊ Instagram : instagram.com/crosslife89
 ♋ Snack Video : https://sck.io/u/GO4xfdiI
