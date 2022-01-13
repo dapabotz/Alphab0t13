@@ -27,10 +27,10 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
 ⛎ Api : api.andriibot.herokuapp.com
-♈ YouTube : http://www.facebook.com/andriistreetmoon
+♈ Facebook : http://www.facebook.com/andriistreetmoon
 ♉ Github : andriiwalker.github.io
 ♊ Instagram : instagram.com/crosslife89
-♋ Snack Video : snackvideo.com/@AndriiStreetM
+♋ Snack Video : https://sck.io/u/GO4xfdiI
 ♏ WhatsApp : https://api.whatsapp.com/send?phone=6283822759168&text=Halo%20saya%20sewa%20bot%20gan
 `}
 
